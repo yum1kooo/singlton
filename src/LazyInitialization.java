@@ -3,7 +3,7 @@ public class LazyInitialization {
         Singlton singlton = Singlton.getInstance();
     }
 }
-//lazy
+//lazyyyyy теперь точно
 class Singlton {
     private static Singlton INSTANCE;
 
